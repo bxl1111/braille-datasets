@@ -1,0 +1,3 @@
+This repository provides the Braille dataset described in the paper (Chinese Braille dataset): the Chinese Braille image dataset for blind spot detection. The repository contains:
+137 color Braille images and their de tilted images from Braille books and regular single-sided Braille documents. According to different application requirements, the annotation format is divided into mask format for segmentation and json format for detection, which is convenient for researchers to use.
+This project is supported and maintained by the School of Computer Science and Technology at Changchun University. Please feel free to pass at any time 231501498@mails.ccu.edu.cn Send us an email to learn more details.
